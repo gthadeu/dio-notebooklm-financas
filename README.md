@@ -70,9 +70,15 @@ Todo investimento possui riscos que devem ser monitorados:
 ### Referências
 
 https://www.b3.com.br/pt_br/b3/educacao/educacao-financeira/
+
 https://www.xpi.com.br/produtos/fundos-imobiliarios/
+
 https://www.infomoney.com.br/guias/fundos-imobiliarios/
+
 https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
+
 https://fiis.com.br/noticias/fiikipedia-relatorios-gerenciais-fundos-imobiliarios/
+
 https://www.suno.com.br/autor/suno-research/
+
 https://www.anbima.com.br/data/files/B4/B2/98/EF/642085106351AF7569A80AC2/Cartilha_da_Nova_Classificacao_de_Fundos_1_.pdf
